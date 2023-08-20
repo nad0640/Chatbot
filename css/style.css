@@ -14,16 +14,16 @@ input{
 }
 
 #main-wrapper{
-	
+
 	border-radius : 10px;
 	background-color: white;
 	border: 3px solid #f1f1f1;
 	width: 500px;
-	margin: 0 auto; 
+	margin: 0 auto;
 
-	
 
-	
+
+
 }
 .myform{
 
@@ -31,9 +31,9 @@ input{
 	background-color: rgba(0,0,0,0.8);
 	border: 3px solid #f1f1f1;
 	width: 500px;
-	margin: 0 auto; 
+	margin: 0 auto;
 
-	
+
 }
 
 .inner_container{
@@ -60,7 +60,7 @@ input{
     width: 60%;
 	font-size:16px;
 	font-weight: bold;
-	
+
 }
 .back_btn{
 	margin-top:10px;
@@ -101,7 +101,18 @@ img.avatar {
 }
 
 .container {
-    
+
     margin:140px;
 	width:100%;
-}	
+}
+
+.avatar {
+    width: 100px;
+    height: auto;
+}
+
+/* Add this to your CSS file */
+.avatar-smaller {
+    width: 40px; /* Set the desired width */
+    height: 40px; /* Set the desired height */
+}

@@ -1,4 +1,4 @@
-body 
+body
 {
   background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-smart-robot-arm-advertising-background-backgroundrobotblue-backgrounddark-backgroundlightlight-image_68405.jpg' );
    background-repeat: no-repeat;
@@ -28,7 +28,7 @@ box-shadow: 9px 2px 26px -7px rgba(0, 0, 0, 1);
 }
 
 /**************************************************For signup.html page*******************************************************************/
- 
+
 .orlogin{
     text-align: center;
 }
@@ -36,7 +36,7 @@ box-shadow: 9px 2px 26px -7px rgba(0, 0, 0, 1);
     padding: 16px;
     text-align: center;
     color: white;
-   
+
 }
 
 /*.cancelbtn {
@@ -54,4 +54,3 @@ box-shadow: 9px 2px 26px -7px rgba(0, 0, 0, 1);
       width: 100%;
     }
   }
-    
